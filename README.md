@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @khatrirohit
+- 👋 Hi, I’m Rohit Khatri.
 - 👀 I’m interested in Java based projects like Springboot.
-- 🌱 I’m currently learning and skilled in Java, Springboot and MySQL.
+- 🌱 I’m currently learning and skilled in Java, HTML, Springboot and MySQL.
 - 💞️ I’m looking to collaborate on Java based projects.
 - 📫 How to reach me: rohitkhatri1102@gmail.com
 
